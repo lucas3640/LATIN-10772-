@@ -7,7 +7,7 @@
     Transformers*
 -   **Authors:** Lucas Puntano, Gustavo Leal, Matias Meira, Cristian
     Ruschetti, and Carlos Verucchi
--   **Affiliation:** CIFICEN (CONICET--CIC--UNICEN), Sede OlavarrÃ­a,
+-   **Affiliation:** CIFICEN (CONICET--CIC--UNICEN), Sede Olavarría,
     Argentina
 
 ## Overview
