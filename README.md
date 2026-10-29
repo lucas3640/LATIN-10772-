@@ -24,11 +24,12 @@ Transformers*.
   ------------------------------------------------------- -----------------------------------
   `Script.m`                                              Main MATLAB script used to execute
                                                           the analysis and generate the
-                                                          results. Add the exact filename and
-                                                          describe its inputs and outputs.
+                                                          results. load the .mat file
+                                                          and use the corresponding variable
+                                                          to select the desired case.
 
-  `.mat files`                                            Experimental data used by the
+  `.mat files`                                            Experimental data used for the
                                                           analysis. Separated by fault and 
-                                                          current measurement side
+                                                          current measurement side.
 
   -------------------------------------------------------------------------------------------
