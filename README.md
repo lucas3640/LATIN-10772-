@@ -35,7 +35,7 @@ file required to run the analysis.
   -------------------------------------------------------------------------------------------
   File or directory                                       Description
   ------------------------------------------------------- -----------------------------------
-  `[TODO: main MATLAB script filename]`                   Main MATLAB script used to execute
+  `Script.m`                                              Main MATLAB script used to execute
                                                           the analysis and generate the
                                                           results. Add the exact filename and
                                                           describe its inputs and outputs.
